@@ -1,0 +1,162 @@
+{
+    "posts": [
+        {
+            "user": {
+                "name": "Alex",
+                "family": "Smith",
+                "image": "img/avatars/01.png"
+            },
+            "content": {
+                "image": ["img/posts/man-in-forest.jpg"],
+                "description": "Постоянно манящие в даль путешествия открывают безграничные возможности для самопознания.",
+                "tags": ["#forest", "#travel", "#journey", "#holiday"]
+            },
+            "comments": [
+                {
+                "user": {
+                    "name": "Anna",
+                    "family": "Dell",
+                    "image": "img/avatars/02.png"
+                },
+                "content": "Красиво. "
+                },
+                {
+                "user": {
+                    "name": "Aleksey",
+                    "family": "Sidorov",
+                    "image": "img/avatars/06.jpg"
+                },
+                "content": "Согласен, очень круто "
+                },
+                {
+                "user": {
+                    "name": "Sasha",
+                    "family": "Sorova",
+                    "image": "img/avatars/03.png"
+                },
+                "content": "Давно уехал? "
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Alex",
+                "family": "Smith",
+                "image": "img/avatars/01.png"
+            },
+            "content": {
+                "image": ["img/posts/girl-pc.jpg"],
+                "description": "Кодить - это просто)",
+                "tags": ["#js", "#jsnative", "#fanny", "#holiday"]
+            },
+            "comments": [
+                {
+                "user": {
+                    "name": "Mark",
+                    "family": "Link",
+                    "image": "img/avatars/04.png"
+                },
+                "content": "ха-ха-ха "
+                },
+                {
+                    "user": {
+                        "name": "Mark",
+                        "family": "Link",
+                        "image": "img/avatars/04.png"
+                    },
+                    "content": "тоже так думаю) "
+                },
+                {
+                    "user": {
+                        "name": "Masha",
+                        "family": "Ford",
+                        "image": "img/avatars/05.png"
+                    },
+                    "content": " Html за час и норм"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Alex",
+                "family": "Smith",
+                "image": "img/avatars/01.png"
+            },
+            "content": {
+                "image": ["img/posts/second.jpg"],
+                "description": "Лето самое лучшее время)",
+                "tags": ["#summer", "#smile", "#hat"]
+            },
+            "comments": [
+                {
+                "user": {
+                    "name": "Masha",
+                    "family": "Ford",
+                    "image": "img/avatars/05.png"
+                },
+                "content": "А мне зима больше нравится "
+                },
+                {
+                    "user": {
+                        "name": "Mark",
+                        "family": "Link",
+                        "image": "img/avatars/04.png"
+                    },
+                    "content": "Зимой тоже хорошо) "
+                },
+                {
+                    "user": {
+                        "name": "Sasha",
+                        "family": "Sorova",
+                        "image": "img/avatars/03.png"
+                    },
+                    "content": "я за осень"
+                }
+            ]
+        },
+        {
+            "user": {
+                "name": "Alex",
+                "family": "Smith",
+                "image": "img/avatars/01.png"
+            },
+            "content": {
+                "image": [
+                    "img/posts/js-carousel/00.jpg",
+                    "img/posts/js-carousel/01.jpg",
+                    "img/posts/js-carousel/02.jpg",
+                    "img/posts/js-carousel/03.jpg"
+                ],
+                "description": "Немного снипетов js",
+                "tags": ["#summer", "#smile", "#hat"]
+            },
+            "comments": [
+                {
+                "user": {
+                    "name": "Masha",
+                    "family": "Ford",
+                    "image": "img/avatars/05.png"
+                },
+                "content": " больше снипетов "
+                },
+                {
+                    "user": {
+                        "name": "Mark",
+                        "family": "Link",
+                        "image": "img/avatars/04.png"
+                    },
+                    "content": "круто) "
+                },
+                {
+                    "user": {
+                        "name": "Sasha",
+                        "family": "Sorova",
+                        "image": "img/avatars/03.png"
+                    },
+                    "content": "хорошо"
+                }
+            ]
+        }
+        
+    ]
+}
